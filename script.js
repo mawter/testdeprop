@@ -1,5 +1,5 @@
 const groupsData = [
-  { name: "Social Media", description: "Lorem ipsum dolor sit amet.", image: "https://ibb.co/JnPQGkR" },
+  { name: "Social Media", description: "Lorem ipsum dolor sit amet.", image: "https://i.ibb.co/zswJBfh/apps-and-games.png" },
   { name: "Apps and Games", description: "Consectetur adipiscing elit.", image: "https://ibb.co/fvcxhtV" },
   { name: "Food", description: "Sed do eiusmod tempor incididunt.", image: "https://ibb.co/yNbpKSx" },
   { name: "Clothes", description: "Ut labore et dolore magna aliqua.", image: "https://ibb.co/8gbSw5T" },
