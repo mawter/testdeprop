@@ -1,10 +1,10 @@
 const groupsData = [
-  { name: "Social Media", description: "Lorem ipsum dolor sit amet.", image: "file:///C:/Users/kal71/OneDrive/Bureau/DeProp/images/socail%20meddia.png" },
-  { name: "Apps and Games", description: "Consectetur adipiscing elit.", image: "file:///C:/Users/kal71/OneDrive/Bureau/DeProp/images/apps%20and%20games.png" },
-  { name: "Food", description: "Sed do eiusmod tempor incididunt.", image: "file:///C:/Users/kal71/OneDrive/Bureau/DeProp/images/food.png" },
-  { name: "Clothes", description: "Ut labore et dolore magna aliqua.", image: "file:///C:/Users/kal71/OneDrive/Bureau/DeProp/images/clothes.png" },
-  { name: "Electronic Stuff", description: "Ut enim ad minim veniam.", image: "file:///C:/Users/kal71/OneDrive/Bureau/DeProp/images/electronixc.png" },
-  { name: "Others", description: "Quis nostrud exercitation ullamco.", image: "file:///C:/Users/kal71/OneDrive/Bureau/DeProp/images/others.png" }
+  { name: "Social Media", description: "Lorem ipsum dolor sit amet.", image: "https://ibb.co/JnPQGkR" },
+  { name: "Apps and Games", description: "Consectetur adipiscing elit.", image: "https://ibb.co/fvcxhtV" },
+  { name: "Food", description: "Sed do eiusmod tempor incididunt.", image: "https://ibb.co/yNbpKSx" },
+  { name: "Clothes", description: "Ut labore et dolore magna aliqua.", image: "https://ibb.co/8gbSw5T" },
+  { name: "Electronic Stuff", description: "Ut enim ad minim veniam.", image: "https://ibb.co/KxjzBKJ" },
+  { name: "Others", description: "Quis nostrud exercitation ullamco.", image: "https://ibb.co/G3PrS3r" }
 ];
 
 document.addEventListener("DOMContentLoaded", function() {
